@@ -9,7 +9,7 @@ const Contact = () => {
                         <div className="col-md-6">
                             <div>
                                 <h2>Contact</h2>
-                                <p>Fell free to reach out!</p>
+                                <p>Feel free to reach out!</p>
                             </div>
                         </div>
                         <div className="col-md-6 m-auto">

@@ -25,7 +25,7 @@ const Hero = () => {
                     </div>
                 </div>
                 <div>
-                    <a className="btn-contact bg-color-primary pt-2 pb-2 ps-3 pe-3" href="#">Contact Me</a>
+                    <a className="btn-contact bg-color-primary pt-2 pb-2 ps-3 pe-3" href="#contact">Contact Me</a>
                 </div>
             </div>
         </>
