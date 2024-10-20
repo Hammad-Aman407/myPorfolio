@@ -20,7 +20,7 @@ const Hero = () => {
                     </div>
                     <div className="col-md-6 order-md-1 order-0 text-center">
                         <div className="profile">
-                            <img src="src/assets/images/DP.PNG" className="img-fluid w-50 h-auto floating-image" alt="..." />
+                            <img src="/myPortfolio/src/assets/images/DP.PNG" className="img-fluid w-50 h-auto floating-image" alt="..." />
                         </div>
                     </div>
                 </div>
