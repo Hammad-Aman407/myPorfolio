@@ -4,9 +4,9 @@ import ProjectBox from './ProjectBox';
 const Projects = () => {
     
     const projects = [
-        {"logo":"/myPortfolio/src/assets/images/project.jpg","name":"Project A","description":"Lorem, ipsum dolor sit amet consectetur adipisicing."},
-        {"logo":"/myPortfolio/src/assets/images/project.jpg","name":"Project B","description":"Lorem, ipsum dolor sit amet consectetur adipisicing."},
-        {"logo":"/myPortfolio/src/assets/images/project.jpg","name":"Project C","description":"Lorem, ipsum dolor sit amet consectetur adipisicing."},
+        {"logo":"/myPortfolio/assets/images/project.jpg","name":"Project A","description":"Lorem, ipsum dolor sit amet consectetur adipisicing."},
+        {"logo":"/myPortfolio/assets/images/project.jpg","name":"Project B","description":"Lorem, ipsum dolor sit amet consectetur adipisicing."},
+        {"logo":"/myPortfolio/assets/images/project.jpg","name":"Project C","description":"Lorem, ipsum dolor sit amet consectetur adipisicing."},
     ];
 
     return (

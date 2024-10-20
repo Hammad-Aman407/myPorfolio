@@ -4,13 +4,13 @@ import Skillsbox from './Skillsbox';
 const Skills = () => {
 
     const skills = [
-        { "logo": "/myPortfolio/src/assets/images/html.png" },
-        { "logo": "/myPortfolio/src/assets/images/css.webp" },
-        { "logo": "/myPortfolio/src/assets/images/javascript.webp" },
-        { "logo": "/myPortfolio/src/assets/images/reactjs.webp" },
-        { "logo": "/myPortfolio/src/assets/images/nodejs.png" },
-        { "logo": "/myPortfolio/src/assets/images/expressjs.png" },
-        { "logo": "/myPortfolio/src/assets/images/mongodb.webp" },
+        { "logo": "/myPortfolio/assets/images/html.png" },
+        { "logo": "/myPortfolio/assets/images/css.webp" },
+        { "logo": "/myPortfolio/assets/images/javascript.webp" },
+        { "logo": "/myPortfolio/assets/images/reactjs.webp" },
+        { "logo": "/myPortfolio/assets/images/nodejs.png" },
+        { "logo": "/myPortfolio/assets/images/expressjs.png" },
+        { "logo": "/myPortfolio/assets/images/mongodb.webp" },
     ];
 
     return (
