@@ -11,9 +11,9 @@ const Hero = () => {
                         </div>
                         <div>
                             <p>I am an undergraduate software engineering student with strong focus on
-                                web development. I am dedicated to writing clean, maintable code that
+                                web development. I am dedicated to writing clean, maintainable code that
                                 adheres to industry best practices. My goal is to ensure that the code
-                                I produce is not only functional but also as efficient as poosible, contributing
+                                I write is not only functional but also as efficient as possible, contributing
                                 to high-performing and scalable web applications.
                             </p>
                         </div>
